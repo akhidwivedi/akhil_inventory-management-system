@@ -26,7 +26,7 @@ SECRET_KEY = '2iq%spo^d@aln1m$6os^)jcdg=1nfh!-ta88984^&p)&b!g7#*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['crulive.herokuapp.com','127.0.0.1.8000']
 
 
 # Application definition
