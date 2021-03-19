@@ -40,7 +40,7 @@ django-scheduler==0.8.6.1
 django-silk==2.0.0
 django-taggit==1.2.0
 django-timedeltafield==0.7.10
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 # drf-haystack==2.0
 drfdocs==0.0.11
