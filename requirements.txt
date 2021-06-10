@@ -16,7 +16,7 @@ colorama==0.4.1
 cycler==0.10.0
 decorator==4.4.0
 dj-database-url==0.5.0
-Django==3.0.6
+Django==3.1.12
 # django-admin-bootstrapped==4.0
 django-annoying==0.10.3
 django-authtools==1.6.0
