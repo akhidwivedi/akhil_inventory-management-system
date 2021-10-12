@@ -69,7 +69,7 @@ mccabe==0.6.1
 mysql-connector-python-rf==2.2.2
 numpy==1.16.4
 olefile==0.44
-opencv-contrib-python==3.4.2.16
+opencv-contrib-python==3.4.7.28
 opencv-python==3.4.2.16
 pandas==0.25.0
 parso==0.5.1
